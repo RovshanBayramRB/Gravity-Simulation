@@ -1,1 +1,1 @@
-# Gravity-Simulation
+In this project, I used Java programming language and its Graphical User Interface (GUI) aspects to simulate the movement of planets in the Solar System. All the processes happening in the simulation have been done using bunch of Physics formulas, measures and facts related to gravities, sizes, masses, and closeness of the planets to the Sun which makes this simulation more realistic. I used images of each planet in .gif extension to distinguish them from each other in the simulation view.
